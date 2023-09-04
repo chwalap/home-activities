@@ -6,7 +6,7 @@ The Home Activity Tracker & Rewards System is a Python-based application that tr
 
 ## Key Features
 
-- **Multi-User Support**: Supports multiple users (Paweł and Jacqueline, in this case).
+- **Multi-User Support**: Supports multiple users.
 - **NFC Enabled**: Use NFC stickers around the house to report activities like brushing teeth, doing laundry, etc.
 - **Activity Points**: Assigns point values to each activity.
 - **Leaderboards**: Daily, weekly, and monthly leaderboards.
@@ -30,7 +30,7 @@ The Home Activity Tracker & Rewards System is a Python-based application that tr
 
 2. **Navigate to the Directory**
     ```bash
-    cd HomeActivityTracker
+    cd home-activities
     ```
 
 3. **Install Dependencies**
